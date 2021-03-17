@@ -49,6 +49,8 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+
+    margin-bottom: 10px;
 }
 
 .filme-principal .descricao{
